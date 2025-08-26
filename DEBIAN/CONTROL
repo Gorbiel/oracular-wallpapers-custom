@@ -1,0 +1,11 @@
+Package: oracular-wallpapers-custom
+Version: 1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Gorbiel <mail.example@mail.com>
+Description: Oracular Oriole wallpapers for GNOME
+ Dynamic and static wallpapers from Ubuntu 24.10 "Oracular Oriole",
+ including light, default, dimmed, and dark variants with a 24-hour
+ dynamic background.
+
