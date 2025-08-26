@@ -1,0 +1,66 @@
+<wallpapers>
+  <!-- Dynamic 1 -->
+  <wallpaper>
+    <name>Oracular Oriole — Dynamic</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/contest/oracular-custom.xml</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  
+  <!-- Dynamic 2 -->
+  <wallpaper>
+    <name>Oracular Oriole — Dynamic (no light)</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/contest/oracular-custom-nolight.xml</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- 1) Switches with system light/dark theme -->
+  <wallpaper>
+    <name>Oracular Oriole — Switchable (Default/Dark)</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/oracular/Oriole_wallpaper_default_3840x2160.png</filename>
+    <filename-dark>/home/gorbiel/.local/share/backgrounds/oracular/Oriole_wallpaper_dark_3840x2160.png</filename-dark>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- 2) Dimmed -->
+  <wallpaper>
+    <name>Oracular Oriole — Dimmed</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/oracular/Oriole_wallpaper_dimmed_3840x2160.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- 3) Dark -->
+  <wallpaper>
+    <name>Oracular Oriole — Dark</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/oracular/Oriole_wallpaper_dark_3840x2160.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- 4) Default -->
+  <wallpaper>
+    <name>Oracular Oriole — Default</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/oracular/Oriole_wallpaper_default_3840x2160.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  
+  <!-- 5) Light -->
+  <wallpaper>
+    <name>Oracular Oriole — Light</name>
+    <filename>/home/gorbiel/.local/share/backgrounds/oracular/Oriole_wallpaper_light_3840x2160.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
+
