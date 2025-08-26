@@ -3,6 +3,7 @@ Version: 1.0
 Section: misc
 Priority: optional
 Architecture: all
+Depends: ubuntu-wallpapers-oracular
 Maintainer: Gorbiel <mail.example@mail.com>
 Description: Oracular Oriole wallpapers for GNOME
  Dynamic and static wallpapers from Ubuntu 24.10 "Oracular Oriole",
