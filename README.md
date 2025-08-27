@@ -1,20 +1,32 @@
-# oracular-wallpapers-custom
+# Oracular Wallpapers Custom
 
 This repository provides a `.deb` package that restores the default wallpapers from **Ubuntu 24.10 (Oracular Oriole)** on newer Ubuntu releases. It includes:
 
 - The official Oracular Oriole wallpapers (default, dark, dimmed, and light variants).
-- Theme-dependent **switching** wallpaper
-- Two **24-hour dynamic wallpaper** with long, subtle transitions.
-- Integration with GNOME Settings
+- Theme-dependent **switchable wallpaper**.
+- Two **24-hour dynamic wallpapers** with long, subtle transitions.
+- Seamless integration with GNOME Settings.
 
 ## Installation
 
-### Build and install the package locally:
+### Install from PPA (recommended)
+
+`oracular-wallpapers-custom` is available pre-built via my Launchpad PPA.
+As always, review the source code before installing third-party packages.
+
+```bash
+sudo add-apt-repository ppa:gorbiel/misc
+sudo apt update
+sudo apt install oracular-wallpapers-custom
+```
+
+### Build and install locally:
+
+To build and install the package from source:
 
 ```bash
 debuild -us -uc
-cd ..
-sudo apt install ./oracular-wallpapers-custom_VERSION.deb
+sudo apt install ../oracular-wallpapers-custom_<version>_all.deb
 ```
 
 Once installed, open **Settings → Appearance** to select either static or dynamic wallpapers.
@@ -33,8 +45,7 @@ sudo apt remove oracular-wallpapers-custom
 
 ## Dependencies
 
-This package depends on:
-- `ubuntu-wallpapers-oracular` (for additional official Oracular wallpapers).
+- `ubuntu-wallpapers-oracular` (provides additional official Oracular wallpapers).
 
 ## License
 
