@@ -12,8 +12,8 @@ This repository provides a `.deb` package that restores the default wallpapers f
 ### Build and install the package locally:
 
 ```bash
-dpkg-deb --build --root-owner-group oracular-wallpapers-custom
-sudo apt install ./oracular-wallpapers-custom.deb
+./build.sh
+sudo apt install ./dist/oracular-wallpapers-custom_VERSION.deb
 ```
 
 Once installed, open **Settings → Appearance** to select either static or dynamic wallpapers.
