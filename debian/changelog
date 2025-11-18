@@ -1,3 +1,9 @@
+oracular-wallpapers-custom (1.0-1ubuntu2) questing; urgency=medium
+
+  * Rebuild for Ubuntu 25.10 (Questing Quokka).
+
+ -- Gabriel Kania <mail.gorbiel@gmail.com>  Tue, 18 Nov 2025 03:13:23 +0100
+
 oracular-wallpapers-custom (1.0-1ubuntu1) plucky; urgency=medium
 
   * Rebuild for plucky.
